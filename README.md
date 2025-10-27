@@ -3,6 +3,7 @@ git check# git-collaboration-simulation
 Nama Room 3
 - Dzikriyadi
 - Dzikri-Conflict
+- Dzikri-Conflict 2
 - Dzikri add new Name
 - William
 - Tes123
